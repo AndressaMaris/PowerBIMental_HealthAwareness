@@ -7,7 +7,7 @@ This project analyzes depressive symptoms across European countries by sex and a
 - `Eurostat_current_depressive_symptoms`:ipynb file containing the data cleaning process in Python.
 - `Depressive_Symptoms_Analysis.pbix`: Power BI file containing the visualizations and analysis.
 - `Eurostat_current_depressive_symptoms.xlsx`: Supporting data file.
-- `README.txt`: This file, providing an overview of the project.
+- `README.md`: This file, providing an overview of the project.
 - `Dashboard_Depressive_Symptoms_Analysis`: PNG file containing a snippet of the Power BI dashboard.
 
 ## How to Use
